@@ -121,4 +121,4 @@ This project is licensed under the Apache License 2.0. See the LICENSE file for 
 
 ## Links
 - **Code**: [GitHub Repository](https://github.com/csce585-mlsystems/SayCan-Extended)  
-- **Video Presentation**: [YouTube Video](https://www.youtube.com/your-video-link)
+- **Video Presentation**: [YouTube Video]([https://www.youtube.com/your-video-link](https://www.youtube.com/watch?v=EAyNhHgrMJE))
